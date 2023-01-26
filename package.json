@@ -1,0 +1,15 @@
+{
+  "name": "NameProject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "runChrome": "cypress run --headless --browser chrome"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.3.0"
+  }
+}
